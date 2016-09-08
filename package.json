@@ -1,0 +1,19 @@
+{
+  "name": "care",
+  "version": "1.0.0",
+  "description": "Front end web app for CARE blood donors directory",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranapu/care.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ranapu/care/issues"
+  },
+  "homepage": "https://github.com/ranapu/care#readme"
+}
